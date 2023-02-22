@@ -13,6 +13,7 @@ Note: If you are using it for the first time, the application may take time to r
 
 askMeCode is ChatGPT AI App build using Open AI's newest Machine Learning Model, Our application has the capability that it can answer almost, most of our questions regarding any programming language
 </br>
+</br>
 <b style="font-weight:bolder,font-size:2rem" >🔴 Learnings from this Project : </b>
 
 As a student, building a chat application using OpenAI API Codex, React JS, and an awesome UI could teach me many valuable skills, including:
